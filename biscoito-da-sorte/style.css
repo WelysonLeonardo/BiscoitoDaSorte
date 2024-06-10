@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
+
         * {
             margin: 0;
             padding: 0;
@@ -126,15 +121,3 @@
                 transform: translateY(0);
             }
         }
-    </style>
-</head>
-<body>
-    <main>
-        <div class="screen1">
-            <h1>Title</h1>
-            <img src="sua-imagem.jpg" alt="Imagem Tremendo">
-            <p>Some text here.</p>
-        </div>
-    </main>
-</body>
-</html>
